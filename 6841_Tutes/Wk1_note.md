@@ -35,8 +35,11 @@ https://webcms3.cse.unsw.edu.au/COMP6441/24T3/resources/104555
 
 ##### Marking Schema for Blogs + Case studies:
 **Excellent** (85 - 100)   Work with impressive elements significantly exceeding what would be regarded as satisfactory
+
 **Good** (60 - 75)   Acceptable work demonstrating solid and satisfactory level of achievement for the criteria
+
 **Partial** (30 - 45)   Borderline work. Demonstrates some relevant skills and work but below the level expected
+
 **Absent** (0)   No serious attempt made
 
 ### There are two marking systems,
